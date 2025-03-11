@@ -1,27 +1,31 @@
 # Analisis-de-Ventas-Pizzeria
 Este proyecto de análisis de ventas de pizza demuestra competencia en el uso de SQL y Power BI para analizar y visualizar datos de manera eficaz, para descubrir información útil sobre las tendencias de ventas y el rendimiento del producto para una pizzería.
-## ENUNCIADO DEL PROBLEMA
-Una popular pizzería quiere optimizar sus estrategias de ventas y marketing para aumentar los ingresos y la satisfacción del cliente. Para lograrlo, la empresa necesita analizar sus datos de ventas para descubrir información sobre las preferencias de los clientes, las tendencias de ventas y el rendimiento del producto. El objetivo es descubrir información a partir de los datos y desarrollar recomendaciones prácticas para impulsar el crecimiento del negocio. El cliente dividió el enunciado del problema en dos secciones;
-## ENTREGABLES
-1. Consultas SQL:
-   
-• Extraiga y agregue datos de ventas del conjunto de datos de ventas de pizza para calcular métricas clave como ingresos totales por ventas, valor promedio de pedidos y pedidos totales.
+## Enunciado del problema 
+Una popular pizzería quiere optimizar sus estrategias de ventas y marketing para aumentar los ingresos y la satisfacción del cliente. Para lograrlo, la empresa necesita analizar sus datos de ventas para descubrir información sobre las preferencias de los clientes, las tendencias de ventas y el rendimiento del producto. El objetivo es descubrir información a partir de los datos y desarrollar recomendaciones prácticas para impulsar el crecimiento del negocio. 
+### Objetivos
+Nuestro objetivo es analizar los indicadores clave de los datos de ventas de pizzas para obtener información sobre el rendimiento de nuestra empresa. Nuestra intención es examinar lo siguiente:
+Ingresos totales: determinar la suma del precio total de todos los pedidos de pizza.
+Valor promedio de los pedidos: calcular el monto promedio gastado por pedido.
+Total de pizzas vendidas: sumar las cantidades de todas las pizzas vendidas.
+Total de pedidos: identificar la cantidad total de pedidos realizados.
+Promedio de pizzas por pedido: calcular la cantidad promedio de pizzas vendidas por pedido.
 
-• Analice las tendencias de ventas a lo largo del tiempo (por hora, por día, por mes) para identificar períodos pico de ventas y variaciones estacionales.
+Nuestro objetivo es analizar los indicadores clave de los datos de ventas de pizzas para obtener información sobre el rendimiento de nuestra empresa. Nuestra intención es examinar lo siguiente:
 
-• Calcule métricas de rendimiento de ventas para productos individuales, incluidas las pizzas más vendidas, los tamaños de pizza más populares y la contribución de ingresos por categoría de producto.
+Ingresos totales: determinar la suma del precio total de todos los pedidos de pizza.
+Valor promedio de los pedidos: calcular el monto promedio gastado por pedido.
+Total de pizzas vendidas: sumar las cantidades de todas las pizzas vendidas.
+Total de pedidos: identificar la cantidad total de pedidos realizados.
+Promedio de pizzas por pedido: calcular la cantidad promedio de pizzas vendidas por pedido.
 
-2. Visualizaciones de Power BI:
-   
-• Desarrolle paneles y visualizaciones interactivas para presentar los resultados del análisis de una manera clara y visualmente atractiva según los requisitos comerciales.
+Además, buscamos visualizar varios aspectos de nuestros datos de ventas de pizzas para comprender las tendencias clave. Nuestros requisitos de visualización incluyen:
 
-• Cree gráficos de líneas para visualizar las tendencias de ventas a lo largo del tiempo, con filtros para diferentes períodos de tiempo.
+Tendencia diaria de pedidos totales: observar la tendencia diaria de pedidos totales durante un período de tiempo específico.
+Tendencia mensual de pedidos totales: ilustrar la tendencia mensual de pedidos totales durante el año.
+Porcentaje de ventas por categoría de pizza: mostrar la distribución de las ventas en diferentes categorías de pizza.
+Porcentaje de ventas por tamaño de pizza: analizar el porcentaje de ventas atribuido a diferentes tamaños de pizza.
+Pizzas vendidas en total por categoría: comparación del rendimiento de las ventas de diferentes categorías de pizzas.
+Las 5 mejores pizzas vendidas en total: identificación de las opciones de pizza más populares.
+Las 5 peores pizzas vendidas en total: identificación de las opciones de pizza con un rendimiento inferior o menos populares.
+Estos análisis y visualizaciones proporcionarán información valiosa sobre nuestros datos de ventas de pizzas y ayudarán a tomar decisiones comerciales informadas.
 
-• Genere gráficos circulares para ilustrar la distribución de ingresos por categoría y tamaño de producto, destacando los artículos más vendidos y la contribución de ingresos.
-
-• Incorpore segmentaciones de datos y filtros para permitir que los usuarios exploren dinámicamente los datos y descubran información en función de sus criterios e intereses específicos.
-
-## SOTWARE USADO
-• Microsoft SQL Server 
-
-• Microsoft Power BI
