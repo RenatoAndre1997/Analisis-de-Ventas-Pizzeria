@@ -6,13 +6,13 @@ Una popular pizzería quiere optimizar sus estrategias de ventas y marketing par
 Nuestro objetivo es analizar los indicadores clave de los datos de ventas de pizzas para obtener información sobre el rendimiento de nuestra empresa. Nuestra intención es examinar lo siguiente:
 
 - Ingresos totales: determinar la suma del precio total de todos los pedidos de pizza.
-
+  
 - Valor promedio de los pedidos: calcular el monto promedio gastado por pedido.
-
+  
 - Total de pizzas vendidas: sumar las cantidades de todas las pizzas vendidas.
-
+  
 - Total de pedidos: identificar la cantidad total de pedidos realizados.
-
+  
 - Promedio de pizzas por pedido: calcular la cantidad promedio de pizzas vendidas por pedido.
   
 Además, buscamos visualizar varios aspectos de nuestros datos de ventas de pizzas para comprender las tendencias clave. Nuestros requisitos de visualización incluyen:
@@ -37,11 +37,11 @@ Estos análisis y visualizaciones proporcionarán información valiosa sobre nue
 
 Esta sección presenta la metodología empleada para llevar a cabo este proyecto utilizando SQL Workbench y PowerBI para la manipulación, análisis y visualización de datos.
 
-Análisis de SQL Workbench:
+### Análisis de SQL Workbench:
 
 Se utilizó SQL Workbench para consultar y manipular los datos de ventas de pizzas. Se abordaron indicadores clave como los ingresos totales, el valor promedio de los pedidos, el total de pizzas vendidas, el total de pedidos y el promedio de pizzas por pedido.
 
-Visualización de PowerBI:
+### Visualización de PowerBI:
 
 Luego de la manipulación de datos en SQL Workbench, se visualizaron los conocimientos utilizando PowerBI. Se crearon varios gráficos y paneles para representar las tendencias y métricas clave identificadas durante el análisis de SQL. La referencia cruzada de los conocimientos de SQL garantiza la precisión y la coherencia de los datos, lo que conduce a resultados prácticos.
 
@@ -54,15 +54,15 @@ Esta metodología aseguró un enfoque sistemático y riguroso para analizar y vi
 Según el análisis de los datos de ventas de pizza, se han identificado los siguientes datos clave:
 
 - Días de mayor volumen de pedidos: los pedidos alcanzan su pico los fines de semana, en particular los viernes y sábados.
-- 
+  
 - Tendencias estacionales: la mayor cantidad de pedidos se produce en los meses de julio y enero.
-- 
+  
 - Categoría de mayor venta: la categoría clásica es la que más contribuye a los ingresos por ventas y al total de pedidos.
-- 
+  
 - Tamaño de pizza popular: las pizzas de tamaño grande generan las mayores ventas.
-- 
+  
 - Principal contribuyente a los ingresos: la pizza Thai Chicken es la que más contribuye a los ingresos generales.
-- 
+  
 - Pizza más vendida: la pizza Classic Deluxe es la pizza más vendida en términos de cantidad total vendida y pedidos totales.
-- 
+  
 - Menor contribuyente a los ingresos: la pizza Brie Carre representa los ingresos mínimos, la cantidad total vendida y el total de pedidos.
