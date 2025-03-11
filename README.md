@@ -4,15 +4,16 @@ Este proyecto de análisis de ventas de pizza demuestra competencia en el uso de
 Una popular pizzería quiere optimizar sus estrategias de ventas y marketing para aumentar los ingresos y la satisfacción del cliente. Para lograrlo, la empresa necesita analizar sus datos de ventas para descubrir información sobre las preferencias de los clientes, las tendencias de ventas y el rendimiento del producto. El objetivo es descubrir información a partir de los datos y desarrollar recomendaciones prácticas para impulsar el crecimiento del negocio. 
 ## Objetivos
 Nuestro objetivo es analizar los indicadores clave de los datos de ventas de pizzas para obtener información sobre el rendimiento de nuestra empresa. Nuestra intención es examinar lo siguiente:
-Ingresos totales: determinar la suma del precio total de todos los pedidos de pizza.
 
-Valor promedio de los pedidos: calcular el monto promedio gastado por pedido.
+- Ingresos totales: determinar la suma del precio total de todos los pedidos de pizza.
 
-Total de pizzas vendidas: sumar las cantidades de todas las pizzas vendidas.
+- Valor promedio de los pedidos: calcular el monto promedio gastado por pedido.
 
-Total de pedidos: identificar la cantidad total de pedidos realizados.
+- Total de pizzas vendidas: sumar las cantidades de todas las pizzas vendidas.
 
-Promedio de pizzas por pedido: calcular la cantidad promedio de pizzas vendidas por pedido.
+- Total de pedidos: identificar la cantidad total de pedidos realizados.
+
+- Promedio de pizzas por pedido: calcular la cantidad promedio de pizzas vendidas por pedido.
 
 Nuestro objetivo es analizar los indicadores clave de los datos de ventas de pizzas para obtener información sobre el rendimiento de nuestra empresa. Nuestra intención es examinar lo siguiente:
 
