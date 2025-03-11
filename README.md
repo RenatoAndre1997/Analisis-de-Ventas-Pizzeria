@@ -14,19 +14,7 @@ Nuestro objetivo es analizar los indicadores clave de los datos de ventas de piz
 - Total de pedidos: identificar la cantidad total de pedidos realizados.
 
 - Promedio de pizzas por pedido: calcular la cantidad promedio de pizzas vendidas por pedido.
-
-Nuestro objetivo es analizar los indicadores clave de los datos de ventas de pizzas para obtener información sobre el rendimiento de nuestra empresa. Nuestra intención es examinar lo siguiente:
-
-- Ingresos totales: determinar la suma del precio total de todos los pedidos de pizza.
-
-- Valor promedio de los pedidos: calcular el monto promedio gastado por pedido.
-
-- Total de pizzas vendidas: sumar las cantidades de todas las pizzas vendidas.
-
-- Total de pedidos: identificar la cantidad total de pedidos realizados.
-
-- Promedio de pizzas por pedido: calcular la cantidad promedio de pizzas vendidas por pedido.
-
+  
 Además, buscamos visualizar varios aspectos de nuestros datos de ventas de pizzas para comprender las tendencias clave. Nuestros requisitos de visualización incluyen:
 
 - Tendencia diaria de pedidos totales: observar la tendencia diaria de pedidos totales durante un período de tiempo específico.
@@ -41,7 +29,7 @@ Además, buscamos visualizar varios aspectos de nuestros datos de ventas de pizz
 
 - Las 5 mejores pizzas vendidas en total: identificación de las opciones de pizza más populares.
 
-Las 5 peores pizzas vendidas en total: identificación de las opciones de pizza con un rendimiento inferior o menos populares.
+- Las 5 peores pizzas vendidas en total: identificación de las opciones de pizza con un rendimiento inferior o menos populares.
 
 Estos análisis y visualizaciones proporcionarán información valiosa sobre nuestros datos de ventas de pizzas y ayudarán a tomar decisiones comerciales informadas.
 
